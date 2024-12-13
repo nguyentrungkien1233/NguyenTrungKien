@@ -1,0 +1,6 @@
+[submodule "DaiSoTuyenTinh"]
+	path = DaiSoTuyenTinh
+	url = https://github.com/nguyentrungkien1233/DaiSoTuyenTinh.git
+[submodule "BaoTriHeThong"]
+	path = BaoTriHeThong
+	url = https://github.com/nguyentrungkien1233/BaoTriHeThong.git
